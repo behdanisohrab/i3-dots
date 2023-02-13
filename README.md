@@ -14,6 +14,6 @@
 
 `mv * ~/.config`
 
- ![screenshot]()
+ ![screenshot](https://github.com/behdanisohrab/i3-dots/blob/main/screenshot/screenshot.png)
  
  [My Telegram channel](https://t.me/sbstuff)
