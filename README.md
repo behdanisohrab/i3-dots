@@ -14,7 +14,7 @@
 
 `mv * ~/.config`
 
-### for logout screen,i had used the Archlinux Logout program from Arcolinux team. you can get it from [here](https://github.com/arcolinux/archlinux-logout).
+### for logout screen,i used the Archlinux Logout program from Arcolinux team. you can get it from [here](https://github.com/arcolinux/archlinux-logout).
 
  ![screenshot](https://github.com/behdanisohrab/i3-dots/blob/main/screenshot/screenshot.png)
  
