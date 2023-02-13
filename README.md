@@ -4,7 +4,7 @@
 
 ### Debian based distributions
 
-`sudo apt install i3 i3-wm dunst kitty i3lock i3status suckless-tools compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior polybar flameshot volumeicon-alsa`
+`sudo apt install pcmanfm i3 i3-wm dunst kitty i3lock i3status suckless-tools compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior polybar flameshot volumeicon-alsa`
 
 `git clone https://github.com/behdanisohrab/i3-dots.git`
 
@@ -20,4 +20,4 @@
 
  ![screenshot](https://github.com/behdanisohrab/i3-dots/blob/main/screenshot/screenshot.png)
  
- [My Telegram channel](https://t.me/sbstuff)
+ 👨‍💻 [My Telegram channel](https://t.me/sbstuff)
